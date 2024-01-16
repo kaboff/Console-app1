@@ -1,5 +1,5 @@
 ﻿
-var number = 45812589 ;
+var number = 45812589;
 string numberIntString = number.ToString();
 char[] letters = numberIntString.ToArray();
 var number0 = 0;
